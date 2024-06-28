@@ -254,7 +254,7 @@
       "createAt": "26-05-2023 09:30:10"
     },
     {
-      "name": "test1",
+      "name": "Web Developer (ReactJS, JavaScript)",
       "tags": [
         "Java",
         "Javascript",
@@ -263,7 +263,7 @@
         "PHP"
       ],
       "salary": 5000,
-      "description": "zsdccsd",
+      "description": "Ngôn ngữ: ReactJS\nLập trình UI/UX cho web Application, web quản trị",
       "city": [
         "TP. Hồ Chí Minh",
         "Đà Nẵng"
@@ -274,7 +274,7 @@
       "id": 6
     },
     {
-      "name": "test2",
+      "name": "Fresher/Junior Android/Kotlin Developer",
       "tags": [
         "Docker",
         "AWS",
@@ -283,7 +283,7 @@
         "React"
       ],
       "salary": 5000,
-      "description": "zsdccsd",
+      "description": "Phân tích và phát triển phần mềm theo tài liệu thiết kế.\nTiến hành kiểm thử chất lượng phần mềm (Unit Test).\nQuản lý tiến độ và báo cáo hàng ngày.",
       "city": [
         "TP. Hồ Chí Minh",
         "Đà Nẵng"
@@ -310,14 +310,14 @@
       "id": 9
     },
     {
-      "name": "disbursement",
+      "name": "Technical Operations Specialist (English)",
       "tags": [
         "Python",
         "PHP",
         "C++"
       ],
       "salary": 332,
-      "description": "wf",
+      "description": "Provision / Onboarding / Offboarding\nTracking access requests\nMonthly review access system-wise",
       "city": [
         "Cần Thơ"
       ],
@@ -327,7 +327,7 @@
       "id": 10
     },
     {
-      "name": "việc làm 1",
+      "name": "Frontend Developer",
       "tags": [
         "Javascript",
         "Java",
@@ -346,13 +346,13 @@
       "id": 11
     },
     {
-      "name": "vicinity",
+      "name": "Backend Developer",
       "tags": [
         "Java",
         "Python"
       ],
       "salary": 10000,
-      "description": "fsdfsdaf",
+      "description": "Phát triển ứng dụng, phần mềm phục vụ sản xuất kinh doanh.",
       "city": [
         "Đà Nẵng"
       ],
